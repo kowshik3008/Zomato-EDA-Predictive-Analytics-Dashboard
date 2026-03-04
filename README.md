@@ -1,3 +1,4 @@
+
 # 🍽️ Zomato EDA & Predictive Analytics Dashboard
 
 A professional, interactive, and machine-learning-powered web dashboard built with **Plotly Dash** and **Scikit-Learn** to analyze and predict restaurant ratings based on the Zomato dataset.
